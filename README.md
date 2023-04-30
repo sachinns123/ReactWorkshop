@@ -45,7 +45,11 @@
 5. Demonstrate your ability to write maintainable code.
 
 6. Extra points for :
+
 Readable code 
+
 Writing Unit Tests in Jest
+
 Modular, component based implementation
+
 References : YouTube for some ideas on the user experience
