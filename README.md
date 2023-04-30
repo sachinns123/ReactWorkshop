@@ -48,4 +48,4 @@
 Readable code 
 Writing Unit Tests in Jest
 Modular, component based implementation
-References : YouTube for some ideas on the user experience#
+References : YouTube for some ideas on the user experience
