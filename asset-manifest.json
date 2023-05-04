@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactworkshop/static/css/main.eafc4355.css",
-    "main.js": "/reactworkshop/static/js/main.08fb514b.js",
+    "main.css": "/reactworkshop/static/css/main.a63df2e9.css",
+    "main.js": "/reactworkshop/static/js/main.b34252bd.js",
     "static/js/749.084bcc70.chunk.js": "/reactworkshop/static/js/749.084bcc70.chunk.js",
     "static/media/poster2.jpg": "/reactworkshop/static/media/poster2.bf23bfae49d854fec0f2.jpg",
     "static/media/poster1.jpg": "/reactworkshop/static/media/poster1.d966e333249e4f74e821.jpg",
@@ -13,12 +13,12 @@
     "static/media/poster4.jpg": "/reactworkshop/static/media/poster4.a2f1de9b0f0c656226d7.jpg",
     "static/media/poster7.jpg": "/reactworkshop/static/media/poster7.8f23c2d5749c68467aaf.jpg",
     "index.html": "/reactworkshop/index.html",
-    "main.eafc4355.css.map": "/reactworkshop/static/css/main.eafc4355.css.map",
-    "main.08fb514b.js.map": "/reactworkshop/static/js/main.08fb514b.js.map",
+    "main.a63df2e9.css.map": "/reactworkshop/static/css/main.a63df2e9.css.map",
+    "main.b34252bd.js.map": "/reactworkshop/static/js/main.b34252bd.js.map",
     "749.084bcc70.chunk.js.map": "/reactworkshop/static/js/749.084bcc70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eafc4355.css",
-    "static/js/main.08fb514b.js"
+    "static/css/main.a63df2e9.css",
+    "static/js/main.b34252bd.js"
   ]
 }
