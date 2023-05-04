@@ -55,10 +55,9 @@ const Homepage = () => {
     return (
         <Suspense fallback={<div>...Loading</div>}>
             <div className='relative w-full z-10'>
-                <div className='grid content-end pt-6 h-18 relative'>
+                <div className='sticky top-0 left-0 right-0 content-end pt-6 h-18 dark:bg-gray-900' id='header'>
                     <Header />
                 </div>
-
                 <div className=''>
                     <ul className='grid grid-flow-row auto-rows-auto grid-cols-3 gap-x-4'>
                         {contentData.length > 0 && contentData.map((item, index) => {
