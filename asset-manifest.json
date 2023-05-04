@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactworkshop/static/css/main.eafc4355.css",
+    "main.js": "/reactworkshop/static/js/main.08fb514b.js",
+    "static/js/749.084bcc70.chunk.js": "/reactworkshop/static/js/749.084bcc70.chunk.js",
+    "static/media/poster2.jpg": "/reactworkshop/static/media/poster2.bf23bfae49d854fec0f2.jpg",
+    "static/media/poster1.jpg": "/reactworkshop/static/media/poster1.d966e333249e4f74e821.jpg",
+    "static/media/poster3.jpg": "/reactworkshop/static/media/poster3.7ee7b802517e3b685aaf.jpg",
+    "static/media/poster5.jpg": "/reactworkshop/static/media/poster5.d0a9cf21d7e7d56979e2.jpg",
+    "static/media/poster8.jpg": "/reactworkshop/static/media/poster8.61013e431fa5ca643217.jpg",
+    "static/media/poster9.jpg": "/reactworkshop/static/media/poster9.080f33854a8c02368de2.jpg",
+    "static/media/poster6.jpg": "/reactworkshop/static/media/poster6.57e30e483bb184bc63b9.jpg",
+    "static/media/poster4.jpg": "/reactworkshop/static/media/poster4.a2f1de9b0f0c656226d7.jpg",
+    "static/media/poster7.jpg": "/reactworkshop/static/media/poster7.8f23c2d5749c68467aaf.jpg",
+    "index.html": "/reactworkshop/index.html",
+    "main.eafc4355.css.map": "/reactworkshop/static/css/main.eafc4355.css.map",
+    "main.08fb514b.js.map": "/reactworkshop/static/js/main.08fb514b.js.map",
+    "749.084bcc70.chunk.js.map": "/reactworkshop/static/js/749.084bcc70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eafc4355.css",
+    "static/js/main.08fb514b.js"
+  ]
+}
